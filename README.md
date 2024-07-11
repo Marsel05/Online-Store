@@ -1,2 +1,2 @@
-![action status](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425
+![action status](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white
 )

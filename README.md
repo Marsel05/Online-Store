@@ -1,1 +1,1 @@
-![action status](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
+![action status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
